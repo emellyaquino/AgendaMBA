@@ -3,7 +3,7 @@ def bemvindo():
 	print("Bem Vindo a Agenda")
 	print("Selecione uma Opcao")
 	# print("1  Adicionar um novo contato")
-	# print("2  Listar os contatos da agenda")
+	# print("2  Listar os contatos da agenda marcio")
 
 #Funcoes do processo
 def adicionar():

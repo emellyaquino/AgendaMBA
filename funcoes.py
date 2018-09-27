@@ -20,7 +20,7 @@ def adicionar():
 	 agenda.close()
 	
 def listar():
-	print("Lista de Contatos")
+	#print("Lista de Contatos")
 	 agenda = open("agendatelefonica.csv")
 	 numero = 0
 	 while numero < 25:
